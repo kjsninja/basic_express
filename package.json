@@ -4,8 +4,7 @@
   "description": "This boilerplate is intended to create a simple NodeJS Web Server using Express Framework with basic routes.",
   "main": "server.js",
   "scripts": {
-    "test": "node server.js",
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
