@@ -1,0 +1,32 @@
+{
+  "name": "basic_express",
+  "version": "0.0.1",
+  "description": "This boilerplate is intended to create a simple NodeJS Web Server using Express Framework with basic routes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://kendrick004@github.com/kendrick004/basic_express.git"
+  },
+  "keywords": [
+    "Basic",
+    "Express",
+    "Boilerplate"
+  ],
+  "author": "Kenster Crucillo <kendrick004@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kendrick004/basic_express/issues"
+  },
+  "homepage": "https://github.com/kendrick004/basic_express#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "localtunnel": "^1.8.3",
+    "nodemon": "^1.14.3"
+  }
+}
